@@ -4,6 +4,13 @@ Questa repository serve a creare una pagina statica che utilizza uno script Json
 
 Il progetto è un esempio di sito statico.
 
+## Sreenshot
+
+Ecco alcuni screenshot della pagina:
+
+![Screenshot home](assets/immagini/screenshot_home.JPG)
+![Screenshot menu](assets/immagini/screenshot_menu.JPG)
+
 ## Funzionalità
 
 Il progetto dispone di queste funzionalità:
@@ -76,10 +83,3 @@ Ecco il link alla GitHub Page:
 ```text
 https://pippofranc0.github.io/Menu_ristorante/
 ```
-
-## Sreenshot
-
-Ecco alcuni screenshot della pagina:
-
-![Screenshot home](assets/immagini/screenshot_home.JPG)
-![Screenshot menu](assets/immagini/screenshot_menu.JPG)
