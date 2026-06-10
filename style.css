@@ -1,0 +1,61 @@
+body {
+
+text-align: center;
+list-style-position: inside;
+margin: 0;
+font-family: Arial, sans-serif;
+background-color: burlywood;
+}
+
+header {
+
+background-color:black;
+color: white;
+text-align: center;
+padding: 20px;
+}
+
+.card_1 {
+
+    background-image: url("/assets/immagini/pasta.avif");
+    background-size: cover;
+    background-position: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+}
+
+.card_2 {
+    background-image: url("/assets/immagini/secondi.jpg");
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+}
+
+.card_3 {
+    background-image: url("/assets/immagini/dolci.jpg");
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+}
+
+.card-body {
+  background: rgba(34, 34, 34, 0.5);
+  color: white;
+  padding: 1rem;
+  border-radius: 6px;
+}
+
+footer {
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+    padding: 5px;
+    height: auto;
+    font-size: 0.8rem;
+    line-height: 1.0;
+}
+
