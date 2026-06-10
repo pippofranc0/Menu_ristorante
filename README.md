@@ -65,9 +65,9 @@ Essendo permissiva, è adatta a progetti didattici e open‑source poiché non i
 
 ## Documenti utili
 
-![api](docs/api.md)
-![faq](docs/faq.md)
-![installazione](docs/installazione.md)
+ - [api](docs/api.md)
+ - [faq](docs/faq.md)
+ - [installazione](docs/installazione.md)
 
 ## Link GitHub Pages
 
