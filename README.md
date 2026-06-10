@@ -63,6 +63,19 @@ Il progetto utilizza una licenza MIT. Per info cliccare qui: [LICENZA](/LICENSE)
 La licenza MIT perché è una licenza che permette a chiunque di usare, modificare e distribuire questo progetto liberamente.
 Essendo permissiva, è adatta a progetti didattici e open‑source poiché non impone particolari restrizioni e rende semplie la condivisione del codice per scopi didattici.
 
+## Documenti utili
+
+![api](docs/api.md)
+![faq](docs/faq.md)
+![installazione](docs/installazione.md)
+
+## Link GitHub Pages
+
+Ecco il link alla GitHub Page:
+
+```text
+https://pippofranc0.github.io/Menu_ristorante/
+```
 
 ## Sreenshot
 
